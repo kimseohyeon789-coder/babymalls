@@ -64,7 +64,7 @@ header .cart {
 
 /* visual */
 .visual {
-  background-image: url(babymall/13.jpg);
+  background-image: url(../아가방몰/babymall\ img/13.jpg);
   /* 배경이미지는 높이값이 있어야 함 */
   height: 800px;
   width: 100%;
@@ -233,7 +233,7 @@ header .cart {
 }
 
 .left02 {
-  background-image: url(babymall/양말.jpg);
+  background-image: url(babymall_img/양말.jpg);
   height: 775px;
   width: 780px;
   color: #6d350f;
@@ -439,25 +439,25 @@ header .cart {
 }
 
 .sec05 .b01 {
-  background-image: url(babymall/a.jpg);
+  background-image: url(babymall_img/a.jpg);
   width: 800px;
   height: 750px;
   position: relative;
 }
 .sec05 .b02 {
-  background-image: url(babymall/b.jpg);
+  background-image: url(babymall_img/b.jpg);
   width: 800px;
   height: 750px;
   position: relative;
 }
 .sec05 .b03 {
-  background-image: url(babymall/c.jpg);
+  background-image: url(babymall_img/c.jpg);
   width: 800px;
   height: 750px;
   position: relative;
 }
 .sec05 .b04 {
-  background-image: url(babymall/d.jpg);
+  background-image: url(babymall_img/d.jpg);
   width: 800px;
   height: 750px;
   position: relative;
