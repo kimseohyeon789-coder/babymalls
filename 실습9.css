@@ -64,7 +64,7 @@ header .cart {
 
 /* visual */
 .visual {
-  background-image: url(babymall_img/13.jpg);
+  background-image: url(./babymall_img/13.jpg);
   /* 배경이미지는 높이값이 있어야 함 */
   height: 800px;
   width: 100%;
